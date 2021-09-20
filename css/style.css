@@ -1,0 +1,42 @@
+body{
+    background-color: #e6eff6;
+    text-align: center;
+}
+
+p{
+    color: #b4b9c1;
+}
+
+h2{
+    color: #656b79;
+}
+
+img{
+    height: 25%;
+    width: 25%;
+}
+
+.container-fluid{
+    padding: 3% 8%;
+
+}
+
+.btn{
+    border: 0px;
+    color: #656b79;
+}
+
+.btn:hover{
+    color: white;
+}
+
+div{
+    padding: 50px 10px;
+    border-radius: 2%;
+}
+
+hr{
+    width: 25%;
+    margin: 0 auto;
+    color: #b4b9c1;
+}
